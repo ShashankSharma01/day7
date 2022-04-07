@@ -1,0 +1,48 @@
+.container{
+    height: 200px;
+    width: 400px;
+    position: relative;
+    top: 100px;
+    left: 0px;
+    background-color: yellow;
+}
+
+.child{
+    height: 80px;
+    width: 50px;
+    top: 80px;
+    right: 0px;
+    position: absolute;
+    border: 2px solid red;
+
+}
+
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: yellow;
+}
+.box3{
+    background-color: orange;
+}
+.box4{
+    background-color: blue;
+    position: sticky;
+    top: 20px;
+}
+.box5{
+    background-color: lightcoral;
+}
+
+.box6{
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+
+
+
